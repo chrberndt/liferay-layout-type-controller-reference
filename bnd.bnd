@@ -1,0 +1,4 @@
+Bundle-Name: Custom Layout Type Controller Reference
+Bundle-SymbolicName: com.chberndt.liferay.layout.type.controller.reference
+Bundle-Version: 1.0.0
+Web-ContextPath: /layout-type-controller-reference
