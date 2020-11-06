@@ -104,6 +104,6 @@ public class ReferenceLayoutTypeController extends BaseLayoutTypeControllerImpl 
 	private static final String _EDIT_PAGE = "/layout/edit/reference.jsp";
 
 	// TODO: Retrieve the reference page's friendly url
-	private static final String _URL = "https://www.kulturtechniker.at";
+	private static final String _URL = "http://localhost:8080";
 
 }
